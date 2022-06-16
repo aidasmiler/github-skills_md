@@ -11,3 +11,5 @@ unsigned long	calculate_ms(struct timeval time_base, struct timeval time_now)
 		- time_base.tv_sec * 1000 - time_base.tv_usec / 1000);
 }
 ```
+- [ ] Learn how to improve my coding skills
+- [ ] Learn how to use github better
